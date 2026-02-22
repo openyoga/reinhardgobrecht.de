@@ -8,7 +8,7 @@ aliases = ["/prinzipien-in-der-philosophie/"]
 
 {{ img_float_left(src="/img/prinzipien-in-der-philosophie.webp", alt="Buchcover") }}
 
-Verlag: BoD - Books on Demand \
+Verlag: [BoD - Books on Demand](https://buchshop.bod.de/prinzipien-in-der-philosophie-reinhard-gobrecht-9783769308105) \
 ISBN: 9783769308105 \
 296 Seiten
 
@@ -55,15 +55,15 @@ Zitate.
 
 ## Referenzierte Philosophen
 
-Al-Farabi – Albert – Albertus Magnus – Anscombe – Anselm von Canterbury –
-Aristoteles – Augustinus – Avenarius Bacon – Baumgarten – Bolzano – Giordano
-Bruno – Carnap – Cicero – Descartes – Davidson – Duns Scotus – Epikur –
-Euklid – Feuerbach – Frege – Gadamer – Hegel – Heidegger – Heraklit – Hume –
-Jaspers – Kant – Kripke – Leibniz – Lewis – Locke – Mach – Malebranche – Mill
-– Moore – Nietzsche – Nikolaus von Kues – Ockham – Parmenides – Pascal –
-Peirce – Platon – Plotin – Poincaré – Popper – Quine – Russell – Sartre –
-Schlick – Schopenhauer – Sextus Empiricus – Spinoza – Theophrast  Thomas von
-Aquin – Whitehead – Wittgenstein – Wolff – Wright – Wundt – u. v. a.
+Al-Farabi · Albert · Albertus Magnus · Anscombe · Anselm von Canterbury ·
+Aristoteles · Augustinus · Avenarius Bacon · Baumgarten · Bolzano · Carnap ·
+Cicero · Davidson · Descartes · Duns Scotus · Epikur · Euklid · Feuerbach ·
+Frege · Gadamer · Giordano Bruno · Hegel · Heidegger · Heraklit · Hume ·
+Jaspers · Kant · Kripke · Leibniz · Lewis · Locke · Mach · Malebranche · Mill
+· Moore · Nietzsche · Nikolaus von Kues · Ockham · Parmenides · Pascal ·
+Peirce · Platon · Plotin · Poincaré · Popper · Quine · Russell · Sartre ·
+Schlick · Schopenhauer · Sextus Empiricus · Spinoza · Theophrast · Thomas von
+Aquin · Whitehead · Wittgenstein · Wolff · Wright · Wundt u. v. a.
 
 ## Themenübersichten
 
@@ -135,15 +135,5 @@ weiterführende detaillierte ausführliche Beschreibung der Prinzipien mit
 allen integrierten Belegstellen und Zitaten erfolgt dann in den folgenden
 Büchern:
 
-- [Grundgesetze und Methoden der
-  Logik](/buecher/grundgesetze-und-methoden-der-logik/)
-  (für Logik und Metaphysik der Logik)
-- [Prinzipien der Metaphysik, Erkenntnistheorie und
-  Sprachphilosophie](/buecher/prinzipien-der-metaphysik-und-erkenntnistheorie/)
-  (für Metaphysik, Erkenntnistheorie und Sprachphilosophie)
-
-## Links
-
-- [BoD - Books on Demand](https://buchshop.bod.de/prinzipien-in-der-philosophie-reinhard-gobrecht-9783769308105)
-- [Amazon](https://www.amazon.de/Prinzipien-Philosophie-Reinhard-Gobrecht/dp/3769308107)
-- [Thalia](https://www.thalia.de/shop/home/artikeldetails/A1073708763)
+- [Grundgesetze und Methoden der Logik](/buecher/grundgesetze-und-methoden-der-logik/) (für Logik und Metaphysik der Logik)
+- [Prinzipien der Metaphysik, Erkenntnistheorie und Sprachphilosophie](/buecher/prinzipien-der-metaphysik-und-erkenntnistheorie/) (für Metaphysik, Erkenntnistheorie und Sprachphilosophie)

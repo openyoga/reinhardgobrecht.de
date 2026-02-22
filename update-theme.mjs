@@ -1,14 +1,23 @@
 import fs from "node:fs"
-let text;
+let file;
 
-console.log("i18n/de.toml");
-text = await fs.promises.readFile("themes/tabi/i18n/de.toml", "utf8");
-text = text
+console.info("\nModifying theme files")
+
+const read = async function (file) {
+    console.log(`- ${file}`);
+    return (await fs.promises.readFile(`themes/tabi/${file}`, "utf8"));
+}
+
+const write = async function (file, text) {
+    await fs.promises.writeFile(file, text);
+}
+
+file = "i18n/de.toml";
+await write(file, (await read(file))
     .replace(/^prev\s*=\s*".*?"/im, `prev = "Vorheriges Buch"`)
-    .replace(/^next\s*=\s*".*?"/im, `next = "Nächstes Buch"`);
-await fs.promises.writeFile("i18n/de.toml", text);
+    .replace(/^next\s*=\s*".*?"/im, `next = "Nächstes Buch"`)
+    .replace(/^all_posts\s*=\s*".*?"/im, `all_posts = "Alle Bücher"`));
 
-console.log("templates/partials/footer.html");
-text = await fs.promises.readFile("themes/tabi/templates/partials/footer.html", "utf8");
-text = text.replace(/<div class="credits">.*?<\/div>/s, "")
-await fs.promises.writeFile("templates/partials/footer.html", text);
+file = "templates/partials/footer.html";
+await write(file, (await read(file))
+    .replace(/<div class="credits">.*?<\/div>/s, ""));

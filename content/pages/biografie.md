@@ -28,5 +28,5 @@ deren Anwendungen in der Softwareentwicklung. Philosophische
 Arbeitsschwerpunkte des Autors waren sowohl logische als auch ontologische
 Grundlagen.
 
-Der Autor lebte im nordhessischen Bad Hersfeld und hat mehrere Bücher im
+Der Autor lebte im nordhessischen Bad Hersfeld und hat mehrere [Bücher](/buecher/) im
 Bereich philosophischer Grundlagen veröffentlicht.

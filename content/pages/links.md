@@ -37,7 +37,7 @@ Rezensionsexemplare der Bücher können kostenlos bestellt werden unter folgende
 
 ## Autorenseiten
 
-- [Autorenseite bei meinem Verlag BoD (mit Bestellmöglichkeit)](https://www.bod.de/buchshop/catalogsearch/result/?q=Reinhard+Gobrecht)
+- [Autorenseite beim Verlag BoD (mit Bestellmöglichkeit)](https://www.bod.de/buchshop/catalogsearch/result/?q=Reinhard+Gobrecht)
 - [Autorenseite bei Autorenwelt (mit Bestellmöglichkeit)](https://www.autorenwelt.de/person/reinhard-gobrecht)
 - [Autorenseite bei Goodreads](https://www.goodreads.com/author/show/7839460.Reinhard_Gobrecht)
 - [Autorenseite bei Lovely Books](https://www.lovelybooks.de/autor/Reinhard-Gobrecht/)
