@@ -37,4 +37,5 @@ Ebene auf die ontologische Ebene zurück. Für Philosophen, die sich mit dem
 Thema Wahrheit befassen, kann Gobrechts neue Untersuchung zur Wahrheit
 interessant sein. [...] mehr auf www.literaturmarkt.info
 
-## FIXME
+FIXME: Was machen wir mit dem Flyer? Sollen die Punkte hier aufgelistet
+werden? Und die Grafiken?

@@ -48,4 +48,12 @@ geistige Stoff aber, bedarf für seine Existenz, weder eines Gehirns noch
 eines subjektiven Bewusstseins, er ist selbstbestehend und autark, er ist die
 höchste Stufe der Betrachtung.
 
-## FIXME
+## Innovationen des Buches
+
+- Zweifachheit des Geistes: Denken und Gedachtes | Denkmethode und Denkstoff.
+- Allgemeiner objektiver Geist, der das subjektive Bewusstsein und Gehirn
+  lenkt und steuert.
+- Eigentliches und wahrhaftes Seiendes und wirkliches Wissen.
+
+FIXME: Was machen wir mit dem Flyer? Sollen die Punkte hier aufgelistet
+werden? Und die Grafiken?

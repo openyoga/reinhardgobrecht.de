@@ -33,7 +33,8 @@ Leben und Denkver­mögen auch auf Exoplaneten möglich?
 ## Innovationen des Buches
 
 - Eine Kosmologie im logischen, philosophischen und physikalischen Kontext.
-- Eine Kosmologie, die materielles und geistiges Sein (Materie und Naturgesetze) betrachtet.
+- Eine Kosmologie, die materielles und geistiges Sein (Materie und
+  Naturgesetze) betrachtet.
 - Eine Kosmologie mit ontologischen und empirischen Perspektiven.
 - Eine kritische Kosmologie.
 

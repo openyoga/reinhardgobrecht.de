@@ -51,4 +51,73 @@ untersucht ferner die Relevanz, die sich hinter den Paradoxien des Zenon von
 Elea verbirgt. Dabei stellen sich wesentliche Zusammenhänge zum
 unveränderlichen Sein des Geistigen heraus.
 
-## FIXME
+## Inhaltsschwerpunkte
+
+- Eigentliches, unveränderliches und geistiges Seiendes
+- Parmenides Lehrgedicht
+- Zenons Paradoxien
+- Ontologische Verallgemeinerung von Tarskis Wahrheitskonzeption
+- Wahrheit als Übereinstimmung
+- Wahrheit als Idee
+- Seinsprinzipien und Wahrheitsprinzipien
+- Logik und Entscheidbarkeit
+- Wert und Zweck der Wahrheit
+- Wahrheit und Wahrhaftigkeit
+- Philosophie more geometrico
+
+Parmenides · Platon · Plotin · Proklos · Aristoteles · Cusanus · Kant · Frege
+· Tarski u.a.
+
+## Innovationen des Buches
+
+- Ontologische Verallgemeinerung der Wahrheitskonzeption von Tarski.
+- Interpretation des Lehrgedichtes des Parmenides, im Kontext des
+  eigentlichen und geistigen Seienden, welches von der Natur vorgegeben bzw.
+  von einer höheren Vernunft gesetzt ist. (Beispiel: Ideen, Naturgesetze,
+  zeitlose Wahrheiten).
+- Mögliche Sinnabsichten des Zenon von Elea bei Aufstellung seiner
+  Paradoxien.
+- Logische und ontologische Strukturen der Wirklichkeit.
+- Analogien zwischen Werden, Sein und Wahrheit.
+- Relationsstruktur zwischen Logischem und Ontologischem.
+- Klare Unterscheidung zwischen erkenntnisgewinnender und
+  erkenntnisvermittelnder Welt (Bereich).
+- Kompakte Darstellung philosophischer Inhalte auf geometrische Art und Weise
+  (more geometrico).
+
+## Realität der Natur - Mathematik - Logik - eigentliches Sein - Wahrheit
+
+- Die natürliche Realität ist logisch; die Gegensätze in der Natur liefern
+  nur scheinbare Widersprüche.
+- Scheinbare Widersprüche lassen sich durch Vernunft und Logik aufheben und
+  erheben.
+- Scheinbare Widersprüche sind auf einer anderen Ebene und unter anderer
+  Hinsicht integrierbar.
+- Alles Unlogische kann keine Realität beanspruchen.
+- Das Logische reduziert die Wahrheit auf die Form.
+- Logisches verwendet formale Sprache.
+- Handlungen und Charaktere können auch Wahrheiten anzeigen.
+- Nach der Wahrheit kann immer gefragt werden unabhängig von Sprache und
+  Form.
+- Naturgesetze, mathematische und logische Gesetze beanspruchen wirkliches
+  und eigentliches Sein.
+- Mathematik, Logik und eigentliches Sein treiben die Seele nach aufwärts zur
+  Wahrheit hin.
+- Von der Realität kann man zum eigentlichen Sein, zum Geist und zur Wahrheit
+  aufsteigen.
+
+## Buchbesprechung von literaturmarkt.info
+
+[...] Neue philosophische Untersuchung zur Wahrheit. [...] Für Philosophen,
+die sich mit dem Thema Wahrheit befassen, kann Gobrechts neue Untersuchung
+zur Wahrheit interessant sein. [...] Der durchkonzipierte und klar
+strukturierte Aufbau des Buches von Reinhard Gobrecht, abgefasst nach der
+philosophischen Methode More Geometrico, macht es interessant für Studierende
+der Philosophie. Den Studenten kann die "Die wohlgerundete Wahrheit" eine
+einführende Orientierungshilfe zum Thema Wahrheit sein. Das Buch stellt aber
+gleichzeitig auch eine neue ontologische und kritische philosophische
+Untersuchung zum Thema Wahrheit vor. [...] mehr unter
+[www.literaturmarkt.info](http://www.literaturmarkt.info/cms/front_content.php?idcat=95&idart=11742)
+
+FIXME: Was machen wir mit dem Flyer? Sollen die Punkte hier aufgelistet
+werden? Und die Grafiken?

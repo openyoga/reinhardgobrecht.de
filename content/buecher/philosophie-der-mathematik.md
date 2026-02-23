@@ -42,34 +42,45 @@ Philosophie aufmerksam gemacht werden.
 1. Philosophie der Mathematik und Logik, mathematische Philosophie
 1. Gemeinsamkeiten von Philosophie und Mathematik
 1. Unterschiede zwischen Philosophie und Mathematik
-1. Schnittstellen und Schnittmengen zwischen Philosophie, Logik und Mathematik
+1. Schnittstellen und Schnittmengen zwischen Philosophie, Logik und
+   Mathematik
 1. Seinsprinzipien und logische Prinzipien - Modalitäten von Sein und Logik
 1. Gegenstände der Mathematik - Gegenstände des Seins
 1. Zusammenhänge zwischen Mathematik, Logik und Naturgesetzen
 1. Unendlichkeiten im Denken und Sein - Unendlichkeiten in der Mathematik
-1. Unendliche Mengen und Bezüge zum Sein und zur Wirklichkeit, Ganzes und Teil
+1. Unendliche Mengen und Bezüge zum Sein und zur Wirklichkeit, Ganzes und
+   Teil
 1. Unendliche Kardinalzahlen und Mengen höherer Stufe
-1. Konstruktive Existenz von Unendlichem, Aktualität und Potenzialität des Unendlichen
+1. Konstruktive Existenz von Unendlichem, Aktualität und Potenzialität des
+   Unendlichen
 1. Subjektive Vorstellungen - objektive Gedanken - Ideen vom Allgemeinen
-1. Philosophie und reine Begriffe - Mathematik und konstruierbare oder symbolisierbare Begriffe
-1. Erkenntnisgegenstände, Erkenntnisstufen und Erkenntnisweisen, anthroposophische Gesichtspunkte
+1. Philosophie und reine Begriffe - Mathematik und konstruierbare oder
+   symbolisierbare Begriffe
+1. Erkenntnisgegenstände, Erkenntnisstufen und Erkenntnisweisen,
+   anthroposophische Gesichtspunkte
 1. Inkommensurabilität und Transzendenz in der Mathematik
-1. Primzahlen, vollkommene Zahlen, Dreieck-, Rechteck- und Quadratzahlen, etc.
+1. Primzahlen, vollkommene Zahlen, Dreieck-, Rechteck- und Quadratzahlen,
+   etc.
 1. Wechselwegnahme, Magische Quadrate und Atome geradliniger Flächen
-1. Erkenntnisse von Pappus, Thales und Pythagoras, Euklid, Platon, Aristoteles, Plotin, Frege, Kant u. a.
+1. Erkenntnisse von Pappus, Thales und Pythagoras, Euklid, Platon,
+   Aristoteles, Plotin, Frege, Kant u. a.
 1. Platonische Körper und binomische Formeln
 1. Kreiszahl und Transzendenz, komplexe Zahlen
 1. Schubfachprinzip und Bezüge zur Metaphysik
 1. Disjunktive logische und metaphysische Aussagen
 1. Das Widerspruchsprinzip als Erkenntnisgrund von Verschiedenheit im Sein
-1. Axiome und Paradoxien, Abstufungen der Wahrheit, Unmöglichkeit von Gehaltserweiterungen
-1. Induktion und Analogie, Wahrheitsübertragung, Kontextbezogenheit bei Axiom und Beweis
+1. Axiome und Paradoxien, Abstufungen der Wahrheit, Unmöglichkeit von
+   Gehaltserweiterungen
+1. Induktion und Analogie, Wahrheitsübertragung, Kontextbezogenheit bei Axiom
+   und Beweis
 1. Das Woraus bei Beweis und Werden - logische Ebene und ontologische Ebene
 1. Schwierigkeiten bei universellen und existenziellen Aussagen
 1. Definierbarkeit, Syntax und Semantik, Wahrheitstafeln
-1. Fibonacci und Mandelbrot, Goldener Schnitt und Zusammenhänge zwischen Mathematik und Natur
+1. Fibonacci und Mandelbrot, Goldener Schnitt und Zusammenhänge zwischen
+   Mathematik und Natur
 1. Stetigkeit und Kontinuität in der Mathematik und in der Wirklichkeit
-1. Die Zahlen als Abstrakta von Anzahlen der Dinge und als Elemente des Plans vom Sein vor den Dingen \
+1. Die Zahlen als Abstrakta von Anzahlen der Dinge und als Elemente des Plans
+   vom Sein vor den Dingen \
    u. v. a.
 
 ## Belegstellen von Philosophen und Mathematikern

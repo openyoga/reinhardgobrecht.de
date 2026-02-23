@@ -108,10 +108,12 @@ Wahrheit in der Primärliteratur sofort lokalisiert werden kann.
 - Sprache und Logik (Begriffe, Kategorien, Sinn und Bedeutung)
 - Anschauung, Denken, Urteilen und Handeln
 - Verstand, Vernunft, Urteilskraft und Bewusstsein
-- Menschliche Eigenschaften (Demut, Edelmut, Einbildung, Einsicht, Hass, Hochmut, Reue, etc.)
+- Menschliche Eigenschaften (Demut, Edelmut, Einbildung, Einsicht, Hass,
+  Hochmut, Reue, etc.)
 - Erkenntnis, Erkenntnisquellen und Erkenntnisgewinnung
 - Erkenntnisarten, Erkenntnisstufen, Erfahrung und Selbsterkenntnis
-- Argumentation und Skepsis (Widerstreit, Regress, Relativität, Dogmatik, Zirkel)
+- Argumentation und Skepsis (Widerstreit, Regress, Relativität, Dogmatik,
+  Zirkel)
 - Schluss auf die beste Erklärung
 - Philosophie, Wissen und Wissenschaft (Astronomie, Geometrie, Mathematik)
 - Medizin, Gesundheit und Heilkunst

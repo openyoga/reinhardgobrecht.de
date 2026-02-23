@@ -135,5 +135,9 @@ weiterführende detaillierte ausführliche Beschreibung der Prinzipien mit
 allen integrierten Belegstellen und Zitaten erfolgt dann in den folgenden
 Büchern:
 
-- [Grundgesetze und Methoden der Logik](/buecher/grundgesetze-und-methoden-der-logik/) (für Logik und Metaphysik der Logik)
-- [Prinzipien der Metaphysik, Erkenntnistheorie und Sprachphilosophie](/buecher/prinzipien-der-metaphysik-und-erkenntnistheorie/) (für Metaphysik, Erkenntnistheorie und Sprachphilosophie)
+- [Grundgesetze und Methoden der
+  Logik](/buecher/grundgesetze-und-methoden-der-logik/) (für Logik und
+  Metaphysik der Logik)
+- [Prinzipien der Metaphysik, Erkenntnistheorie und
+  Sprachphilosophie](/buecher/prinzipien-der-metaphysik-und-erkenntnistheorie/)
+  (für Metaphysik, Erkenntnistheorie und Sprachphilosophie)
