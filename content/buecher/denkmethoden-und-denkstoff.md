@@ -54,6 +54,3 @@ höchste Stufe der Betrachtung.
 - Allgemeiner objektiver Geist, der das subjektive Bewusstsein und Gehirn
   lenkt und steuert.
 - Eigentliches und wahrhaftes Seiendes und wirkliches Wissen.
-
-FIXME: Was machen wir mit dem Flyer? Sollen die Punkte hier aufgelistet
-werden? Und die Grafiken?

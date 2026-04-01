@@ -60,5 +60,3 @@ geschieht nicht in Details, sondern nur in groben Zügen.
 - Vernunftexistenz, sinnliche Existens und seelische Existenz
 - Kausalität, Harmonie und Symmetrie
 - kosmisches Zentrum
-
-FIXME: Was machen wir mit den 9 Abbildungen am Ende der Seite?

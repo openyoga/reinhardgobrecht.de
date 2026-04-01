@@ -144,6 +144,3 @@ Philosophische Logik haben sehr viel gemeinsam:
    Analogie und muss unterscheiden zwischen allen Modalitäten.
 
 Weiterführende Literatur: **Kant** - ***Kritik der reinen Vernunft B 741- B 766***
-
-FIXME: Was machen wir mit dem Flyer? Sollen die Punkte hier aufgelistet
-werden? Und die Grafiken?

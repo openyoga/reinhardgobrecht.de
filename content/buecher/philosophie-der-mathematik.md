@@ -90,7 +90,6 @@ Bolzano · Cicero · Descartes · Epikur · Euklid · Frege · Hume · Kant ·
 Leibniz · Locke · Mandelbrot · Mill · Nikolaus von Kues · Pappus · Pascal ·
 Platon · Plotin · Popper · Pythagoras · Russell · Schlick · Tarski · Thales ·
 Whitehead · Wittgenstein · Wolff · Zenon
-FIXME: Was machen wir mit den 11 Abbildungen auf der Seite?
 
 ## Didaktik der Mathematik
 

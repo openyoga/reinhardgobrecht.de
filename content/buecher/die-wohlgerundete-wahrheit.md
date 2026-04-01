@@ -118,6 +118,3 @@ einführende Orientierungshilfe zum Thema Wahrheit sein. Das Buch stellt aber
 gleichzeitig auch eine neue ontologische und kritische philosophische
 Untersuchung zum Thema Wahrheit vor. [...] mehr unter
 [www.literaturmarkt.info](http://www.literaturmarkt.info/cms/front_content.php?idcat=95&idart=11742)
-
-FIXME: Was machen wir mit dem Flyer? Sollen die Punkte hier aufgelistet
-werden? Und die Grafiken?
