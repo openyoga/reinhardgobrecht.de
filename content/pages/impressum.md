@@ -15,7 +15,7 @@ Lupinenweg 3 \
 
 Tel. +49 6621 14675
 
-E-Mail: family.gobrecht(at)gmail.com
+E-Mail: feedback.prinzipien(at)gmail.com
 
 © 2014 - 2025 Reinhard Gobrecht Bad Hersfeld - Autorenfoto: Verena Hahnelt
 

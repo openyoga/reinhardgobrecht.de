@@ -6,7 +6,7 @@ slug = "prinzipien-der-metaphysik-und-erkenntnistheorie"
 aliases = ["/prinzipien-der-metaphysik-und-erkenntnistheorie/"]
 +++
 
-{{ img_float_left(src="/img/prinzipien-der-metaphysik-und-erkenntnistheorie.webp", alt="Buchcover") }}
+{{ <img_float_left src="/img/prinzipien-der-metaphysik-und-erkenntnistheorie.webp" alt="Buchcover" /> }}
 
 Verlag: [BoD - Books on Demand](https://buchshop.bod.de/prinzipien-der-metaphysik-erkenntnistheorie-und-sprachphilosophie-reinhard-gobrecht-9783739224183) \
 ISBN: 9783739224183 \

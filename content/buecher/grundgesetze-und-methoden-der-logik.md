@@ -6,7 +6,7 @@ slug = "grundgesetze-und-methoden-der-logik"
 aliases = ["/grundgesetze-und-methoden-der-logik/"]
 +++
 
-{{ img_float_left(src="/img/grundgesetze-und-methoden-der-logik.webp", alt="Buchcover") }}
+{{ <img_float_left src="/img/grundgesetze-und-methoden-der-logik.webp" alt="Buchcover" /> }}
 
 Verlag: [BoD - Books on Demand](https://buchshop.bod.de/grundgesetze-und-methoden-der-logik-reinhard-gobrecht-9783734776274) \
 ISBN: 9783734776274 \

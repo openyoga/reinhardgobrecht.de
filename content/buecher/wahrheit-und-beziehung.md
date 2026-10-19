@@ -6,7 +6,7 @@ slug = "wahrheit-und-beziehung"
 aliases = ["/wahrheit-und-beziehung/"]
 +++
 
-{{ img_float_left(src="/img/wahrheit-und-beziehung.webp", alt="Buchcover") }}
+{{ <img_float_left src="/img/wahrheit-und-beziehung.webp" alt="Buchcover" /> }}
 
 Verlag: [BoD - Books on Demand](https://buchshop.bod.de/wahrheit-und-beziehung-korrespondenz-zwischen-bereichen-reinhard-gobrecht-9783751984812) \
 ISBN: 9783751984812 \

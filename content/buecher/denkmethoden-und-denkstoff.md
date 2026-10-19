@@ -6,7 +6,7 @@ slug = "denkmethoden-und-denkstoff"
 aliases = ["/denkmethoden-und-denkstoff/"]
 +++
 
-{{ img_float_left(src="/img/denkmethoden-und-denkstoff.webp", alt="Buchcover") }}
+{{ <img_float_left src="/img/denkmethoden-und-denkstoff.webp" alt="Buchcover" /> }}
 
 Verlag: [BoD - Books on Demand](https://buchshop.bod.de/denkmethoden-und-denkstoff-reinhard-gobrecht-9783755758662) \
 ISBN: 9783755758662 \

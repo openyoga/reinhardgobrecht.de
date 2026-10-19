@@ -6,7 +6,7 @@ slug = "philosophie-der-mathematik"
 aliases = ["/philosophie-der-mathematik/"]
 +++
 
-{{ img_float_left(src="/img/philosophie-der-mathematik.webp", alt="Buchcover") }}
+{{ <img_float_left src="/img/philosophie-der-mathematik.webp" alt="Buchcover" /> }}
 
 Verlag: [BoD - Books on Demand](https://buchshop.bod.de/philosophie-der-mathematik-reinhard-gobrecht-9783757822330) \
 ISBN: 9783757822330 \

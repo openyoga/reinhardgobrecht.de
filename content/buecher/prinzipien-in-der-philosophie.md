@@ -6,7 +6,7 @@ slug = "prinzipien-in-der-philosophie"
 aliases = ["/prinzipien-in-der-philosophie/"]
 +++
 
-{{ img_float_left(src="/img/prinzipien-in-der-philosophie.webp", alt="Buchcover") }}
+{{ <img_float_left src="/img/prinzipien-in-der-philosophie.webp" alt="Buchcover" /> }}
 
 Verlag: [BoD - Books on Demand](https://buchshop.bod.de/prinzipien-in-der-philosophie-reinhard-gobrecht-9783769308105) \
 ISBN: 9783769308105 \

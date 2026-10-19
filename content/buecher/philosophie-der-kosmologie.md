@@ -6,7 +6,7 @@ slug = "philosophie-der-kosmologie"
 aliases = ["/philosophie-der-kosmologie/"]
 +++
 
-{{ img_float_left(src="/img/philosophie-der-kosmologie.webp", alt="Buchcover") }}
+{{ <img_float_left src="/img/philosophie-der-kosmologie.webp" alt="Buchcover" /> }}
 
 Verlag: [BoD - Books on Demand](https://buchshop.bod.de/philosophie-der-kosmologie-reinhard-gobrecht-9783758388002) \
 ISBN: 9783758388002 \

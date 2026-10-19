@@ -6,7 +6,7 @@ slug = "die-wohlgerundete-wahrheit"
 aliases = ["/die-wohlgerundete-wahrheit/"]
 +++
 
-{{ img_float_left(src="/img/die-wohlgerundete-wahrheit.webp", alt="Buchcover") }}
+{{ <img_float_left src="/img/die-wohlgerundete-wahrheit.webp" alt="Buchcover" /> }}
 
 Verlag: [BoD - Books on Demand](https://buchshop.bod.de/die-wohlgerundete-wahrheit-reinhard-gobrecht-9783749484904) \
 ISBN: 9783749484904 \

@@ -6,7 +6,7 @@ slug = "philosophische-gotteslehre"
 aliases = ["/philosophische-gotteslehre/"]
 +++
 
-{{ img_float_left(src="/img/philosophische-gotteslehre.webp", alt="Buchcover") }}
+{{ <img_float_left src="/img/philosophische-gotteslehre.webp" alt="Buchcover" /> }}
 
 Verlag: [BoD - Books on Demand](https://buchshop.bod.de/philosophische-gotteslehre-reinhard-gobrecht-9783757823986) \
 ISBN: 9783757823986 \

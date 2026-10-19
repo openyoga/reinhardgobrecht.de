@@ -6,7 +6,7 @@ slug = "lexikon-der-philosophie"
 aliases = ["/lexikon-der-philosophie/"]
 +++
 
-{{ img_float_left(src="/img/lexikon-der-philosophie.webp", alt="Buchcover") }}
+{{ <img_float_left src="/img/lexikon-der-philosophie.webp" alt="Buchcover" /> }}
 
 Verlag: [BoD - Books on Demand](https://buchshop.bod.de/lexikon-der-philosophie-reinhard-gobrecht-9783757860004) \
 ISBN: 9783757860004 \
